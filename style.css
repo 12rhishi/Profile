@@ -1,0 +1,22 @@
+body {
+    background-color:#EAF6F6;
+}
+.heading{
+    color: #66BFBF;
+    font-size: 20px;
+}
+label{
+    color: #66bfbf;
+}
+
+td{
+    padding-left: 18px;
+}
+hr{
+ border-style: dotted;
+ border-bottom: 0px; 
+ border-color: grey;  
+ width: 54px;
+ 
+ border-width: 6px;
+}
